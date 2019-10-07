@@ -24,7 +24,8 @@ def monopoly_with_third_tier
       two: 'H&M Railroad',
       three: 'Pennsyltucky Railroad',
       four: 'Short Stack Railroad'
-    }
+    },
+    :one_piece_owned => 25
   }
 	}
 end
