@@ -23,7 +23,7 @@ def monopoly_with_third_tier
       one: 'Reading Rainbow'
       two: 'H&M Railroad'
       three: 'Pennsyltucky Railroad'
-      four: ''
+      four: 'Short Stack Railroad'
     }
   }
 	}
