@@ -20,10 +20,10 @@ def monopoly_with_third_tier
       four: 8
     },
     :names => {
-      one: 'Reading'
-      two: 'H&M'
-      three:
-      four:
+      one: 'Reading Rainbow'
+      two: 'H&M Railroad'
+      three: 'Pennsyltucky Railroad'
+      four: ''
     }
   }
 	}
