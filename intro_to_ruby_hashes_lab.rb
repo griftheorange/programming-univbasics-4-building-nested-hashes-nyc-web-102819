@@ -19,7 +19,12 @@ def monopoly_with_third_tier
       three: 7,
       four: 8
     },
-    :names => {}
+    :names => {
+      one: 'Reading'
+      two: 'H&M'
+      three:
+      four:
+    }
   }
 	}
 end
