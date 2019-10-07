@@ -20,8 +20,8 @@ def monopoly_with_third_tier
       four_pieces_owned: 200
     },
     :names => {
-      one: 'Reading Rainbow',
-      two: 'H&M Railroad',
+      reading_railroad: {},
+      B: 'H&M Railroad',
       three: 'Pennsyltucky Railroad',
       four: 'Short Stack Railroad'
     }
